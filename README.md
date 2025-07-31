@@ -3,9 +3,9 @@
 
 
  <p>
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="200" height = "100"/>
+  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="200" height = "170"/>
 
- <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width ="200"/>
+ <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width ="200"  height = "170"/>
  </p>
  
 <p>
