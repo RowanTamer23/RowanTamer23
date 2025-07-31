@@ -2,8 +2,9 @@
 <h3 align="center">Make yourself at home 💞</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
-  <img src="https://digitalroar.ae/wp-content/themes/drs/assets/img/mobile-app-development.gif" width = "410" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
+    width = "350"/>
+  <img src="https://digitalroar.ae/wp-content/themes/drs/assets/img/mobile-app-development.gif" width = "300" />
  </p>
  
 ## 💫 About Me :
