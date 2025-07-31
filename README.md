@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="50" />, This is Rowan Tamer </h1>
+<h1 align="center"> Hello <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="35" />, This is Rowan Tamer </h1>
 <h3 align="center">Make yourself at home 💞</h3>
 
 <p align="center">
