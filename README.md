@@ -7,7 +7,7 @@
  <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width = "300" height = "400"  />
  </p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
+<p align= "center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
 
