@@ -3,19 +3,12 @@
 
 
  <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height = "170"/>
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="200" height = "170"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height = "200"/>
+
 
  <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width ="200"  height = "170"/>
  </p>
  
-<p>
-<img Src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width = "70" />
-<img Src="https://miro.medium.com/v2/resize:fit:900/1*ADxa8DAu2pT66Nv3roRsvA.gif" width = "70" />
-<img Src="https://camo.githubusercontent.com/2a670c5dd0c8c69c2e0a8a5835be9eebfc643400b857cf1746c8dfa99a6305fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5269325455634b6c614f63614442784670592f67697068792e676966" width = "70"/>
-
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
