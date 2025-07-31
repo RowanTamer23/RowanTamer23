@@ -3,7 +3,7 @@
 
 
  <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height = "200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhpZ3VkbTExc2w1YmN4MmphNnR5c3M1NHkyanI5eWFweXE4cXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height = "170"/>
 
 
  <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width ="200"  height = "170"/>
