@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rowan Tamer</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
 
  <p>
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="150"/>
+  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="200" height = "100"/>
 
  <img src="https://solverstech.com/wp-content/uploads/2024/10/7c4eb6fa3c754c7aab0863f107f15f3a.gif" width ="200"/>
  </p>
@@ -17,6 +14,11 @@
 <img Src="https://camo.githubusercontent.com/2a670c5dd0c8c69c2e0a8a5835be9eebfc643400b857cf1746c8dfa99a6305fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5269325455634b6c614f63614442784670592f67697068792e676966" width = "70"/>
 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowantamer23" alt="rowantamer23" /></a> </p>
 
