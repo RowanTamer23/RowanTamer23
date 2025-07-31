@@ -9,10 +9,10 @@
  
 <p align= "center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowantamer23&show_icons=true&locale=en&layout=compact" alt="rowantamer23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
+<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowantamer23&show_icons=true&locale=en" alt="rowantamer23" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowantamer23" alt="rowantamer23" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowantamer23" alt="rowantamer23" /></a> </p>
 
 - 📫 How to reach me **Rowan.tamer232001@gmail.com**
 
