@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rowan Tamer</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
  
- <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="50"/>
+ <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="500"/>
 <p>
 <img Src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" />
 
-<img Src="https://camo.githubusercontent.com/2a670c5dd0c8c69c2e0a8a5835be9eebfc643400b857cf1746c8dfa99a6305fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5269325455634b6c614f63614442784670592f67697068792e676966" width = "30"/>
+<img Src="https://camo.githubusercontent.com/2a670c5dd0c8c69c2e0a8a5835be9eebfc643400b857cf1746c8dfa99a6305fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5269325455634b6c614f63614442784670592f67697068792e676966" width = "100"/>
 
 </p>
 - 📫 How to reach me **Rowan.tamer232001@gmail.com**
